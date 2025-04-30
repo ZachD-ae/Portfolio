@@ -45,7 +45,7 @@ To run the project locally:
 
 ## Deployment
 
-This application is deployed using [Netlify](https://www.netlify.com/) and is continuously updated via GitHub.
+This application is deployed using [Netlify]([https://www.netlify.com](https://prismatic-strudel-eb6785.netlify.app/)/) and is continuously updated via GitHub.
 
 ## Author
 
